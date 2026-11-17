@@ -1,0 +1,8 @@
+Tem que setar o notebook ou pc como Hotspot, com a rede coletor e senha coletor123 
+
+
+Pro teste de banimento de um dos Roteadores é só fazer o comando:
+
+          sudo iw dev wl01 station del 3c:8a:1f:a0:e7:5c
+
+esse endereço MAC aí é o R1, só largar ip neigh pra ver qual do R2 ou pro caso de mudar em outro pc 
