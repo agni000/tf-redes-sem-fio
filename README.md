@@ -6,4 +6,4 @@
 
 - Pra fazer o teste S1 -> R1 -> R2 -> Coletor, dá uma lida no .txt que eu larguei por aí. 
 
-- Tem que colocar o pc em modo Hotspot com nome coletor e senha coletor 123 e rodar o coletor.py  
+- Tem que colocar o pc em modo Hotspot com nome coletor e senha coletor123 e rodar o coletor.py  
